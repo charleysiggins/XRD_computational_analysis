@@ -1,0 +1,1 @@
+A robust Python pipeline developed for MPhys computational coursework.  It automates parsing, fitting and statistical validation of XRD spectra to extract physical parameters and rigorously quantified uncertainties.
